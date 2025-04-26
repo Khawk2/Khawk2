@@ -3,10 +3,10 @@
 <h2>Full-Stack Developer</h2>
 
 ## About me
-- 🌱 Actualmente estoy enfocado en mi formación como desarrollador
-- 🎯 Objetivo: Convertirme en un desarrollador Full-Stack competente
-- 🌟 Me apasiona aprender nuevas tecnologías y mejorar mis habilidades
-- 🤝 Busco oportunidades para colaborar en proyectos y ganar experiencia práctica
+- 🌱 Currently focused on my development training
+- 🎯 Goal: Become a competent Full-Stack Developer
+- 🌟 Passionate about learning new technologies and improving my skills
+- 🤝 Looking for opportunities to collaborate on projects and gain practical experience
 
 ---
 

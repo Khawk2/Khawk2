@@ -26,16 +26,9 @@
 ### 🧑‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 
 ### 🧩 Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
-
-### 🖌️ Frontend Technologies
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)

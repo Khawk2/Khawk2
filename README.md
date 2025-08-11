@@ -1,6 +1,6 @@
 <h1>Hello! I'm Kevin García <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-<h2>Full-Stack Developer</h2>
+<h2>Back-end Developer</h2>
 
 ## About me
 - 🌱 Currently focused on my development training

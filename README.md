@@ -32,19 +32,14 @@
 
 ### 🧩 Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 
 ### 🖌️ Frontend Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 
 ### 🗄️ Databases
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
